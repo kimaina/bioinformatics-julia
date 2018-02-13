@@ -1,16 +1,16 @@
 ################################################################################
 #
-# Program:		methods_asg5.jl
-# Purpose: 		Clinical decision support (CDS) tool for BMI
-# Description:	Calculates a patient’s body mass index (BMI) based on provided
-#				weight and height and determines patient’s weight status.
-#				Assumes lb-in and no error checking (e.g., out-of-range values).
-#				Future versions should includes more robust validation and error
-#				checks (e.g., invalid values).
-# Created by: 			BCBI (bcbi@brown.edu)
-# Created on: 			2018-02-12
-# Last modified by:		BCBI (bcbi@brown.edu)
-# Last modified on:		2018-02-13
+# Program: methods_asg5.jl
+# Purpose: Clinical decision support (CDS) tool for BMI
+# Description: Calculates a patient’s body mass index (BMI) based on provided
+#	weight and height and determines patient’s weight status.
+#	Assumes lb-in and no error checking (e.g., out-of-range values).
+#	Future versions should includes more robust validation and error
+#	checks (e.g., invalid values).
+# Created by: BCBI (bcbi@brown.edu)
+# Created on: 2018-02-12
+# Last modified by: BCBI (bcbi@brown.edu)
+# Last modified on: 2018-02-13
 #
 ################################################################################
 
