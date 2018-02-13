@@ -5,12 +5,12 @@
 # Description:	Calculates a patient’s body mass index (BMI) based on provided
 #				weight and height and determines patient’s weight status.
 #				Assumes lb-in and no error checking (e.g., out-of-range values).
-#				Future versions should includes more robust validation and error 
+#				Future versions should includes more robust validation and error
 #				checks (e.g., invalid values).
 # Created by: 			BCBI (bcbi@brown.edu)
-# Created on: 			2017-02-14
+# Created on: 			2018-02-12
 # Last modified by:		BCBI (bcbi@brown.edu)
-# Last modified on:		2018-02-12
+# Last modified on:		2018-02-13
 #
 ################################################################################
 
@@ -28,11 +28,12 @@ height = parse(Float64, readline(STDIN))
 
 # calculate bmi
 bmi = (weight / height^2) * 703
+#bmi = round((weight / height^2) * 703, 2) # round result to 2 significant digits
 
 # prints calculated BMI
-println("\nBMI = $bmi")   				# print calculated BMI
-#println(@sprintf "\nBMI = %.2f" bmi)	# prints calculated BMI
-#@printf("\nBMI = %.2f\n", bmi)
+println("\nBMI = $bmi")	# print calculated BMI
+#println(@sprintf "\nBMI = %.2f" bmi)	# prints calculated BMI (2 digits after decimal only)
+#@printf("\nBMI = %.2f\n", bmi) # prints calculated BMI (2 digits after decimal only)
 
 # determine weight status based on calculated BMI (if-elseif-else)
 if bmi < 18.5
@@ -52,7 +53,9 @@ println("Status = $status")
 
 ############################################################################
 
-# determine weight status based on calculated BMI (if-else)
+# Another option for determining weight status
+# based on calculated BMI (series of if-else statements)
+
 #=
 if bmi < 18.5
 	status = "Underweight"
