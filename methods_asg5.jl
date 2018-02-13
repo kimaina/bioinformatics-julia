@@ -28,7 +28,7 @@ height = parse(Float64, readline(STDIN))
 
 # calculate bmi
 bmi = (weight / height^2) * 703
-#bmi = round((weight / height^2) * 703, 2) # round result to 2 significant digits
+#bmi = round((weight / height^2) * 703, 2) # round result to 2 digits after decimal
 
 # prints calculated BMI
 println("\nBMI = $bmi")	# print calculated BMI
@@ -41,11 +41,11 @@ if bmi < 18.5
 elseif bmi < 25.0
 	status = "Normal Weight"
 elseif bmi < 30.0
-  	status = "Overweight"
+	status = "Overweight"
 elseif bmi < 40.0
-  	status = "Obese"
+	status = "Obese"
 else
-  	status = "Extreme or high risk obesity"
+	status = "Extreme or high risk obesity"
 end
 
 # print status
@@ -66,14 +66,14 @@ if bmi >= 18.5 && bmi < 25.0	# if 18.5 <= bmi < 25.0
 end
 
 if bmi >= 25.0 && bmi < 30.0	# if 25.0 <= bmi < 30.0
-  	status = "Overweight"
+	status = "Overweight"
 end
 
 if bmi >= 30.0 && bmi < 40.0	# if 30.0 <= bmi < 40.0
-  	status = "Obese"
+	status = "Obese"
 end
 
 if bmi >= 40.0
-  	status = "Extreme or high risk obesity"
+	status = "Extreme or high risk obesity"
 end
 =#
