@@ -3,7 +3,7 @@
 #  Strings, characters, and regular expressions
 #  Conditional statements and control structures
 #
-#  Created by BCBI on 2017-02-013.
+#  Created by BCBI on 2017-02-13.
 #  Last Updated by BCBI on 2018-02-14.
 #  Copyright 2018 Brown University. All rights reserved.
 #
@@ -48,7 +48,8 @@ end
 
 # for every number between 1 and 10,
 # print out the character at each position in string
-for number in 1:10
+# for number in 1:10
+for number in 1:phrase_length
   pos_character = phrase[number]
   println("character at position $number: $pos_character")
 end
@@ -83,7 +84,7 @@ end
 print("welcome! what is your favorite date? (mm/dd/yyyy): ")
 user_date = readline(STDIN)
 
-while ismatch(r"[0-9][0-9]\/[0-9][0-9]\/[12][0-9][0-9][0-9]", user_date)
+while ismatch(r"^[0-9]{2}/[0-9]{2}/[0-9]{4}$", user_date)
   println("right format!")
   print("enter another date (mm/dd/yyyy): ")
   user_date = readline(STDIN)
