@@ -1,0 +1,98 @@
+Enter a PubMed Title:
+Diagnosis and treatment of the patient with heart failure. What their history and your clinical exam should tell you about what's happening.
+
+
+Number of Words = 22
+Number of Unique Words = 21
+
+Diagnosis = Starts with Letter
+Diagnosis = Convert to dx
+and = Starts with Letter
+Research progress of epigenetic biomarkers in the early diagnosis and treatment of human diseases.
+
+treatment = Starts with Letter
+treatment = Convert to tx
+of = Starts with Letter
+the = Starts with Letter
+patient = Starts with Letter
+with = Starts with Letter
+heart = Starts with Letter
+failure. = Starts with Letter
+failure. = Ends with '.'
+What = Starts with Letter
+their = Starts with Letter
+history = Starts with Letter
+history = Convert to hx
+and = Starts with Letter
+your = Starts with Letter
+clinical = Starts with Letter
+exam = Starts with Letter
+should = Starts with Letter
+tell = Starts with Letter
+you = Starts with Letter
+about = Starts with Letter
+what's = Starts with Letter
+happening. = Starts with Letter
+happening. = Ends with '.'
+
+Original title = Diagnosis and treatment of the patient with heart failure. What their history and your clinical exam should tell you about what's happening.
+New title (from string) = dx and tx of the patient with heart failure. What their hx and your clinical exam should tell you about what's happening.
+=============================================================================
+=============================================================================
+
+Enter a PubMed Title:
+
+Number of Words = 14
+Number of Unique Words = 13
+
+Research = Starts with Letter
+progress = Starts with Letter
+of = Starts with Letter
+epigenetic = Starts with Letter
+biomarkers = Starts with Letter
+in = Starts with Letter
+the = Starts with Letter
+early = Starts with Letter
+diagnosis = Starts with Letter
+diagnosis = Convert to dx
+and = Starts with Letter
+treatment = Starts with Letter
+treatment = Convert to tx
+of = Starts with Letter
+
+human = Starts with Letter
+diseases. = Starts with Letter
+diseases. = Ends with '.'
+
+Original title = Research progress of epigenetic biomarkers in the early diagnosis and treatment of human diseases.
+New title (from string) = Research progress of epigenetic biomarkers in the early dx and tx of human diseases.
+=============================================================================
+=============================================================================
+
+Enter a PubMed Title:
+The Association between the History of HIV Diagnosis and Oral Health.
+
+Number of Words = 11
+Number of Unique Words = 11
+
+The = Starts with Letter
+Association = Starts with Letter
+between = Starts with Letter
+the = Starts with Letter
+History = Starts with Letter
+History = Convert to hx
+of = Starts with Letter
+HIV = Starts with Letter
+Diagnosis = Starts with Letter
+Diagnosis = Convert to dx
+and = Starts with Letter
+Oral = Starts with Letter
+Health. = Starts with Letter
+Health. = Ends with '.'
+
+Original title = The Association between the History of HIV Diagnosis and Oral Health.
+New title (from string) = The Association between the hx of HIV dx and Oral Health.
+=============================================================================
+=============================================================================
+Enter a PubMed Title:
+qqq

@@ -1,0 +1,276 @@
+Please enter PubMed title:
+Four Diseases, Two Associations, One Patient: A Case of Frontal Fibrosing
+Alopecia, Lichen Planus Pigmentosus, Acne Rosacea, and Morbihan Disease.
+The number of words in the title is: 20
+The number of unique words in the title is: 20
+Acne starts with a letter.
+Acne does not start with a number.
+Acne does not end with a (.)
+Disease. starts with a letter.
+Disease. does not start with a number.
+Disease. ends with a (.)
+Associations, starts with a letter.
+Associations, does not start with a number.
+Associations, does not end with a (.)
+Morbihan starts with a letter.
+Morbihan does not start with a number.
+Morbihan does not end with a (.)
+Rosacea, starts with a letter.
+Rosacea, does not start with a number.
+Rosacea, does not end with a (.)
+and starts with a letter.
+and does not start with a number.
+and does not end with a (.)
+Two starts with a letter.
+Two does not start with a number.
+Two does not end with a (.)
+One starts with a letter.
+One does not start with a number.
+One does not end with a (.)
+Four starts with a letter.
+Four does not start with a number.
+Four does not end with a (.)
+Diseases, starts with a letter.
+Diseases, does not start with a number.
+Diseases, does not end with a (.)
+Alopecia, starts with a letter.
+Alopecia, does not start with a number.
+Alopecia, does not end with a (.)
+A starts with a letter.
+A does not start with a number.
+A does not end with a (.)
+Case starts with a letter.
+Case does not start with a number.
+Case does not end with a (.)
+Lichen starts with a letter.
+Lichen does not start with a number.
+Lichen does not end with a (.)
+Planus starts with a letter.
+Planus does not start with a number.
+Planus does not end with a (.)
+of starts with a letter.
+of does not start with a number.
+of does not end with a (.)
+Frontal starts with a letter.
+Frontal does not start with a number.
+Frontal does not end with a (.)
+Pigmentosus, starts with a letter.
+Pigmentosus, does not start with a number.
+Pigmentosus, does not end with a (.)
+Fibrosing starts with a letter.
+Fibrosing does not start with a number.
+Fibrosing does not end with a (.)
+Patient: starts with a letter.
+Patient: does not start with a number.
+Patient: does not end with a (.)
+The digit for Two is: 2
+The digit for One is: 1
+The digit for Four is: 4
+=============================================================================
+=============================================================================
+Please enter another PubMed title:
+Genome-wide association study identifies 74 loci associated with educational
+attainment.
+The number of words in the title is: 10
+The number of unique words in the title is: 10
+associated starts with a letter.
+associated does not start with a number.
+associated does not end with a (.)
+educational starts with a letter.
+educational does not start with a number.
+educational does not end with a (.)
+attainment.
+ starts with a letter.
+attainment.
+ does not start with a number.
+attainment.
+ does not end with a (.)
+Genome-wide starts with a letter.
+Genome-wide does not start with a number.
+Genome-wide does not end with a (.)
+74 does not start with a letter.
+74 starts with a number.
+74 does not end with a (.)
+association starts with a letter.
+association does not start with a number.
+association does not end with a (.)
+loci starts with a letter.
+loci does not start with a number.
+loci does not end with a (.)
+study starts with a letter.
+study does not start with a number.
+study does not end with a (.)
+with starts with a letter.
+with does not start with a number.
+with does not end with a (.)
+=============================================================================
+=============================================================================
+Please enter another PubMed title:
+Six ways for governments to get value from health IT.
+identifies starts with a letter.
+identifies does not start with a number.
+identifies does not end with a (.)
+The number of words in the title is: 10
+The number of unique words in the title is: 10
+governments starts with a letter.
+governments does not start with a number.
+governments does not end with a (.)
+Six starts with a letter.
+Six does not start with a number.
+Six does not end with a (.)
+IT. starts with a letter.
+IT. does not start with a number.
+IT. ends with a (.)
+ways starts with a letter.
+ways does not start with a number.
+ways does not end with a (.)
+health starts with a letter.
+health does not start with a number.
+health does not end with a (.)
+to starts with a letter.
+to does not start with a number.
+to does not end with a (.)
+value starts with a letter.
+value does not start with a number.
+value does not end with a (.)
+get starts with a letter.
+get does not start with a number.
+get does not end with a (.)
+from starts with a letter.
+from does not start with a number.
+from does not end with a (.)
+for starts with a letter.
+for does not start with a number.
+for does not end with a (.)
+The digit for Six is: 6
+=============================================================================
+=============================================================================
+Please enter another PubMed title:
+Prosthetic joint infection following hip fracture and degenerative hip
+disorder: a cohort study of three thousand, eight hundred and seven
+consecutive hip arthroplasties with a minimum follow-up of five years.
+The number of words in the title is: 30
+The number of unique words in the title is: 25
+degenerative starts with a letter.
+degenerative does not start with a number.
+degenerative does not end with a (.)
+eight starts with a letter.
+eight does not start with a number.
+eight does not end with a (.)
+disorder: starts with a letter.
+disorder: does not start with a number.
+disorder: does not end with a (.)
+following starts with a letter.
+following does not start with a number.
+following does not end with a (.)
+a starts with a letter.
+a does not start with a number.
+a does not end with a (.)
+and starts with a letter.
+and does not start with a number.
+and does not end with a (.)
+hundred starts with a letter.
+hundred does not start with a number.
+hundred does not end with a (.)
+seven starts with a letter.
+seven does not start with a number.
+seven does not end with a (.)
+fracture starts with a letter.
+fracture does not start with a number.
+fracture does not end with a (.)
+arthroplasties starts with a letter.
+arthroplasties does not start with a number.
+arthroplasties does not end with a (.)
+Prosthetic starts with a letter.
+Prosthetic does not start with a number.
+Prosthetic does not end with a (.)
+thousand, starts with a letter.
+thousand, does not start with a number.
+thousand, does not end with a (.)
+study starts with a letter.
+study does not start with a number.
+study does not end with a (.)
+five starts with a letter.
+five does not start with a number.
+five does not end with a (.)
+minimum starts with a letter.
+minimum does not start with a number.
+minimum does not end with a (.)
+cohort starts with a letter.
+cohort does not start with a number.
+cohort does not end with a (.)
+three starts with a letter.
+three does not start with a number.
+three does not end with a (.)
+with starts with a letter.
+with does not start with a number.
+with does not end with a (.)
+years. starts with a letter.
+years. does not start with a number.
+years. ends with a (.)
+of starts with a letter.
+of does not start with a number.
+of does not end with a (.)
+joint starts with a letter.
+joint does not start with a number.
+joint does not end with a (.)
+infection starts with a letter.
+infection does not start with a number.
+infection does not end with a (.)
+consecutive starts with a letter.
+consecutive does not start with a number.
+consecutive does not end with a (.)
+follow-up starts with a letter.
+follow-up does not start with a number.
+follow-up does not end with a (.)
+hip starts with a letter.
+hip does not start with a number.
+hip does not end with a (.)
+The digit for eight is: 8
+The digit for seven is: 7
+The digit for five is: 5
+The digit for three is: 3
+=============================================================================
+=============================================================================
+Please enter another PubMed title:
+3D visualization environment for analysis of telehealth indicators in public
+health.
+The number of words in the title is: 11
+The number of unique words in the title is: 11
+public starts with a letter.
+public does not start with a number.
+public does not end with a (.)
+analysis starts with a letter.
+analysis does not start with a number.
+analysis does not end with a (.)
+visualization starts with a letter.
+visualization does not start with a number.
+visualization does not end with a (.)
+environment starts with a letter.
+environment does not start with a number.
+environment does not end with a (.)
+for starts with a letter.
+for does not start with a number.
+for does not end with a (.)
+telehealth starts with a letter.
+telehealth does not start with a number.
+telehealth does not end with a (.)
+indicators starts with a letter.
+indicators does not start with a number.
+indicators does not end with a (.)
+in starts with a letter.
+in does not start with a number.
+in does not end with a (.)
+health. starts with a letter.
+health. does not start with a number.
+health. ends with a (.)
+3D does not start with a letter.
+3D starts with a number.
+3D does not end with a (.)
+of starts with a letter.
+of does not start with a number.
+of does not end with a (.)
+=============================================================================
+=============================================================================
+Please enter another PubMed title:
+qqq
